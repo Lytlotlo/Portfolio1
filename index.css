@@ -1,0 +1,90 @@
+h4{
+    color: paleturquoise;
+    text-align: center;
+}
+
+h1{     grid-colum: 1/13;
+        grid-row: 1;
+        background-color: dodgerblue;
+        color: floralwhite;
+        text-align: right;
+}
+
+section1{
+         text-align: center
+}
+  
+
+#container2{
+        display:grid;
+        margin-bottom: -20;
+        
+}
+
+p{
+        color: navy;
+        text-align: center;
+        font-family: Arial, sans-serif;
+}
+
+h2{
+        color: paleturquoise;
+        text-align: center;
+        font-family: Arial, sans-serif;
+}
+
+h3{
+        color: darkblue;
+        text-align: center;
+}
+
+body{
+        width: 80%;
+        margin: auto;
+        background-image: url("2.png");
+        background-size: 1000px 1200px;
+}
+
+#container{
+        display:grid;
+        margin-bottom: 60px;
+        
+}
+
+section{
+        grid-colum: 1/9;
+        grid-row: 2;
+        padding: 4px;
+        background-image: linear-gradient(120deg, dodgerblue, paleturquoise);
+        background-color: dodgerblue;
+}
+
+.grid-container{
+               display:grid;
+               grid-template-columns: auto auto auto;
+}
+
+.grid-item{
+          padding: 20px;
+          text-align: center;
+          color: navy;
+          font-family: Arial, sans-serif;
+}
+
+h6{
+        color: white;
+        text-align: center;
+        font-family: Arial, sans-serif;
+        font-size: 20px;
+}
+
+.circle-sketch-highlight{
+                        position:relative;
+                        left:0.5em;
+                        font-family: Arial, sans-serif;
+                        font-size: 32px;
+                        text-align: center;
+                        color: navy;
+ 
+  
+}
